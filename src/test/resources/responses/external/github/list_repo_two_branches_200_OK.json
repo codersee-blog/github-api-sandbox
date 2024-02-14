@@ -1,0 +1,19 @@
+[
+  {
+    "name": "master",
+    "commit": {
+      "sha": "03aa4d08a6d60d2a448eae6346d737532d7289a4",
+      "url": "https://api.github.com/repos/codersee-blog/freecodecamp-spring-boot-kotlin-excel/commits/03aa4d08a6d60d2a448eae6346d737532d7289a4"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/codersee-blog/freecodecamp-spring-boot-kotlin-excel/branches/master/protection"
+  }
+]
